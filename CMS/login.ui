@@ -126,7 +126,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap resource="zys.qrc">:/C:/Users/张鸿宇/Desktop/5EC6666.png</pixmap>
+    <pixmap resource="zys.qrc">:/zys.png</pixmap>
    </property>
    <property name="wordWrap">
     <bool>false</bool>

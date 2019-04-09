@@ -6,6 +6,7 @@
 
 QT       += core gui
 QT       += sql
+QT       += widgets
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = CMS
