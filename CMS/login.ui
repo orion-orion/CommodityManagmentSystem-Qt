@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Login</string>
+   <string>京东物流管理系统欢迎您</string>
   </property>
   <widget class="QLabel" name="label">
    <property name="geometry">
@@ -36,7 +36,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Username:</string>
+    <string>用户名：</string>
    </property>
   </widget>
   <widget class="QLabel" name="label_3">
@@ -49,7 +49,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Password:</string>
+    <string>密码：</string>
    </property>
   </widget>
   <widget class="QLineEdit" name="txtname">
@@ -82,7 +82,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Login</string>
+    <string>登录</string>
    </property>
    <property name="autoDefault">
     <bool>false</bool>
@@ -104,7 +104,7 @@
     </rect>
    </property>
    <property name="text">
-    <string>Cancel</string>
+    <string>取消</string>
    </property>
    <property name="autoDefault">
     <bool>false</bool>
@@ -126,7 +126,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap resource="zys.qrc">:/zys.png</pixmap>
+    <pixmap resource="zys.qrc">:/Logo.png</pixmap>
    </property>
    <property name="wordWrap">
     <bool>false</bool>

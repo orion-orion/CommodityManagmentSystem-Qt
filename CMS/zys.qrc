@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
+        <file>Logo.png</file>
         <file>zys.png</file>
     </qresource>
 </RCC>

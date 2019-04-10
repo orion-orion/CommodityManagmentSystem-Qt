@@ -18,7 +18,7 @@ Login::~Login()
 
 void Login::on_pushButton_clicked()
 {
-    if(this->ui->txtname->text().trimmed()== tr("admin") && this->ui->txtpwd->text().trimmed()==tr("admin"))
+    if(this->ui->txtname->text().trimmed()== tr("admin") && this->ui->txtpwd->text().trimmed()==tr("12345"))
     {
         accept();
     }

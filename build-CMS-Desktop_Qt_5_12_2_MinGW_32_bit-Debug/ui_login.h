@@ -62,7 +62,7 @@ public:
         label_4 = new QLabel(Login);
         label_4->setObjectName(QString::fromUtf8("label_4"));
         label_4->setGeometry(QRect(10, 50, 141, 141));
-        label_4->setPixmap(QPixmap(QString::fromUtf8(":/zys.png")));
+        label_4->setPixmap(QPixmap(QString::fromUtf8(":/Logo.png")));
         label_4->setWordWrap(false);
 
         retranslateUi(Login);
@@ -76,12 +76,12 @@ public:
 
     void retranslateUi(QDialog *Login)
     {
-        Login->setWindowTitle(QApplication::translate("Login", "Login", nullptr));
+        Login->setWindowTitle(QApplication::translate("Login", "\344\272\254\344\270\234\347\211\251\346\265\201\347\256\241\347\220\206\347\263\273\347\273\237\346\254\242\350\277\216\346\202\250", nullptr));
         label->setText(QString());
-        label_2->setText(QApplication::translate("Login", "Username:", nullptr));
-        label_3->setText(QApplication::translate("Login", "Password:", nullptr));
-        pushButton->setText(QApplication::translate("Login", "Login", nullptr));
-        pushButton_2->setText(QApplication::translate("Login", "Cancel", nullptr));
+        label_2->setText(QApplication::translate("Login", "\347\224\250\346\210\267\345\220\215\357\274\232", nullptr));
+        label_3->setText(QApplication::translate("Login", "\345\257\206\347\240\201\357\274\232", nullptr));
+        pushButton->setText(QApplication::translate("Login", "\347\231\273\345\275\225", nullptr));
+        pushButton_2->setText(QApplication::translate("Login", "\345\217\226\346\266\210", nullptr));
         label_4->setText(QString());
     } // retranslateUi
 
