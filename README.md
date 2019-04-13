@@ -16,7 +16,7 @@
 ### 1.数据库连接界面。  
 目前暂时只提供SQLlite数据库支持。   
 ![数据库连接界面](/ScreenShoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E7%95%8C%E9%9D%A2.png)      
-![更多数据库选择有待开发]（/ScreenShoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%80%89%E6%8B%A9%E7%95%8C%E9%9D%A2.png）      
+！[更多数据库选择有待开发](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E6%95%B0%E6%8D%AE%E5%BA%93%E9%80%89%E6%8B%A9%E7%95%8C%E9%9D%A2.png）      
 2.登录界面  
 为管理员设置了登录口令，初始用户名为admin，密码为12345，只有输入正确口令才能登陆。  
 ![登录界面](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)  
