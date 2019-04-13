@@ -44,8 +44,8 @@
 按名称搜索结果如下：    
 ![按名称搜索结果](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E6%8C%89%E5%90%8D%E5%AD%97%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C.png)  
 10.删除信息操作  
-输入想要删除的货物名即可删除该货物所有信息。  
-![删除信息操作](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E5%88%A0%E9%99%A4%E4%BF%A1%E6%81%AF%E6%93%8D%E4%BD%9C.png)  
+用鼠标选中想要删除的货物的信息栏，再点击删除按键，可删除该货物所有信息。  
+![删除按键](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E5%88%A0%E9%99%A4%E6%8C%89%E9%94%AE.png)  
 11.删除信息操作确认   
 防止用户出现误删操作。   
 ![删除信息确认窗口](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E5%88%A0%E9%99%A4%E7%A1%AE%E8%AE%A4%E7%AA%97%E5%8F%A3.png)  
