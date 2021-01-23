@@ -30,11 +30,11 @@
 5.滑动信息显示区。     
 ![滑动信息显示区](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E4%BA%A7%E5%93%81%E7%BB%86%E8%8A%82%E5%8C%BA%E5%9F%9F%EF%BC%88%E5%8A%A8%E6%80%81%EF%BC%89.png)    
 6.操作菜单。  
-操作菜单提供对货物信息的查找（按类别或按名称），添加，删除，退出系统等功能。
-![操作菜单](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E6%93%8D%E4%BD%9C%E8%8F%9C%E5%8D%95.png)  
-7.添加信息窗口  
-录入要添加的货物的ID，类别，货物名称等信息，即可完成对新增货物信息的录入。
-![添加信息窗口](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E6%B7%BB%E5%8A%A0%E4%BF%A1%E6%81%AF%E7%AA%97%E5%8F%A3.png)    
+操作菜单提供对货物信息的查找（按类别或按名称），添加，删除，退出系统等功能。  
+![操作菜单](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E6%93%8D%E4%BD%9C%E8%8F%9C%E5%8D%95.png)    
+7.添加信息窗口    
+录入要添加的货物的ID，类别，货物名称等信息，即可完成对新增货物信息的录入。  
+![添加信息窗口](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E6%B7%BB%E5%8A%A0%E4%BF%A1%E6%81%AF%E7%AA%97%E5%8F%A3.png)      
 8.查找信息：按类别模糊搜索  
 ![按类别搜索](https://github.com/lonelyprince7/CommodityManagmentSystem-Qt/blob/master/ScreenShoot/%E6%8C%89%E7%B1%BB%E5%88%AB%E6%90%9C%E7%B4%A2.png)  
 按类别搜索结果如下：  
